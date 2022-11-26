@@ -1,0 +1,28 @@
+using UnityEngine;
+using System.Collections;
+using System.Collections.Generic;
+
+// .
+
+public class #SCRIPTNAME# : MonoBehaviour
+{
+
+
+
+
+	private void Awake()
+	{
+
+	}
+
+	private void Start()
+	{
+
+	}
+
+	private void Update()
+	{
+
+	}
+
+}
