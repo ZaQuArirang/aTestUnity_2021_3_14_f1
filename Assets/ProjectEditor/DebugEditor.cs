@@ -1,8 +1,9 @@
+#if UNITY_EDITOR
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
-using UnityEditor.SceneManagement;
 
 // 에디터에서 디버그, 테스트와 관련된 작업을 할 수 있도록 도와줍니다.
 
@@ -101,3 +102,5 @@ namespace DebugTestEditor
 	}
 
 }
+
+#endif
